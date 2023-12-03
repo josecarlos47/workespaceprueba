@@ -16,6 +16,7 @@ public static void main(String[] args) {
 	
 	System.out.println("El contador de 7 es igual a "+contador);
 	System.out.println(contador);
+	System.out.println();
 	
 }
 }
